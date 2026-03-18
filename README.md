@@ -123,9 +123,11 @@ The model is pre-trained on the **COCO dataset**, which includes 80 object categ
 ---
 
 ## 📸 Demo
-    output
-    ![output](demo.png)
+    ## 📸 Demo Output
 
+<p align="center">
+  <img src="demo.png" width="600"/>
+</p>
 
 ## 📌 Resume Description
 
