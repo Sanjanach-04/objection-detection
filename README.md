@@ -37,20 +37,6 @@ The system can identify multiple objects simultaneously and draw **bounding boxe
 * NumPy
 * HTML/CSS
 
----
-
-## 📂 Project Structure
-
-```bash
-object-detection/
-│── static/
-│── templates/
-│── utils/
-│── app.py
-│── requirements.txt
-│── README.md
-│── .env
-```
 
 ---
 
@@ -59,7 +45,7 @@ object-detection/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/object-detection.git
+git clone https://github.com/sanjanach-04/object-detection.git
 cd object-detection
 ```
 
@@ -138,7 +124,7 @@ The model is pre-trained on the **COCO dataset**, which includes 80 object categ
 
 ## 📸 Demo
     output
-    ![output](image-1.png)
+    ![output](demo.png)
 
 
 ## 📌 Resume Description
